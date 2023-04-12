@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-1053.71,-797.868)">
+        <g transform="matrix(0.13835,0,0,0.137502,1064.32,652.272)">
+            <g transform="matrix(1.48032,0,0,1.11106,-868.611,874.882)">
+                <path d="M841.987,230.991L573.597,235.506L565.998,568.475L830.646,551.296L841.987,230.991Z" style="fill:none;stroke:white;stroke-width:19.1px;"/>
+            </g>
+        </g>
+        <g transform="matrix(0.13835,0,0,0.137502,1064.32,652.272)">
+            <g transform="matrix(1.48032,0,0,1.11106,-868.611,874.882)">
+                <path d="M852.656,203.633L557.659,215.757L558.233,584.334L831.278,572.51L852.656,203.633Z" style="fill:none;stroke:white;stroke-opacity:0.53;stroke-width:19.1px;"/>
+            </g>
+        </g>
+        <g transform="matrix(0.13835,0,0,0.137502,1064.32,652.272)">
+            <g transform="matrix(1.48032,0,0,1.11106,-868.611,874.882)">
+                <path d="M864.764,176.883L543.4,194.608L548.573,607.83L837.753,585.681L864.764,176.883Z" style="fill:none;stroke:white;stroke-opacity:0.25;stroke-width:19.1px;"/>
+            </g>
+        </g>
+        <g transform="matrix(0.13835,0,0,0.137502,1064.32,652.272)">
+            <g transform="matrix(1,0,0,1,-210.731,947.957)">
+                <path d="M326.9,261L426.6,261C463.9,261 494.6,284.9 494.6,326.1C494.6,378.4 453.4,409.8 402.1,409.8L350.5,409.8L335.8,494.1L285.8,494.1L326.9,261ZM399.8,369.8C425.3,369.8 445.2,356.7 445.2,330.2C445.2,309.6 429.2,301.1 411.5,301.1L369.7,301.1L357.6,369.7L399.8,369.7L399.8,369.8Z" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+</svg>

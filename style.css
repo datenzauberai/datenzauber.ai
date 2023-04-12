@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 10em;
+  height: 10em;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  width: 5em;
+  height: 5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box img {
+  width: 3em;
+  height: 3em;
+  display: block;
+  margin: auto;
+}
